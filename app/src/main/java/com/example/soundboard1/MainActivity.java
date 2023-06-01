@@ -14,13 +14,11 @@ public class MainActivity extends AppCompatActivity {
 
     Button btnBeastRoar;
 
-    Button btnArrowWoosh;
-
     Button btnArrowWhoosh;
 
     Button btnTunnelReverb;
 
-    Button btnWhooshtransition;
+    Button btnWhooshTransition;
 
     Button btnClassicAlarm;
 
@@ -32,15 +30,39 @@ public class MainActivity extends AppCompatActivity {
 
     Button btnSmallSweep;
 
-    Button btnAsonishedGasp;
+    Button btnAstonishedGasp;
 
-    Button btnAraceRetro;
+    Button btnArcadeRetro;
 
     Button btnHeartBeat;
 
 
     //Button
-    btnBeastRoar = findViewById(R.id.btn_BeastRoar);
+    btnBeastRoar = findViewById(R.id.btn_beastroar);
+
+    btnArrowWhoosh = findViewById(R.id.btn_arrowhoosh);
+
+    btnTunnelReverb = findViewById(R.id.btn_tunnelreverb);
+
+    btnWhooshTransition = findViewById(R.id.btn_whooshtransition);
+
+    btnClassicAlarm = findViewById(R.id.btn_classicalarm);
+
+    btnCrowdLaugh = findViewById(R.id.btn_crowdlaugh);
+
+    btnDogBarking = findViewById(R.id.btn_dogbarking);
+
+    btnRocketWhoosh = findViewById(R.id.btn_rocketwhoosh);
+
+    btnSmallSweep = findViewById(R.id.btn_smallsweep);
+
+    btnAstonishedGasp = findViewById(R.id.btn_astonishedgasp);
+
+    btnArcadeRetro = findViewById(R.id.btn_arcaderetro);
+
+    btnHeartBeat = findViewById(R.id.btn_heartbeat);
+
+
 
 
     }
